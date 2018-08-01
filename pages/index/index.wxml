@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+ <view class="input">
+  <input placeholder="请输入需要检测的网址" auto-focus/>
+</view>
+<button class='btn' bindtap='sumbit' >开始检测</button>
+</view>
